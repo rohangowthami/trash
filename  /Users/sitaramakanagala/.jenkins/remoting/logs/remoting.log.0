@@ -1,0 +1,10 @@
+Nov 16, 2023 5:20:32 PM hudson.remoting.jnlp.Main createEngine
+INFO: Setting up agent: jenkins2
+Nov 16, 2023 5:20:32 PM hudson.remoting.Engine startEngine
+INFO: Using Remoting version: 3160.vd76b_9ddd10cc
+Nov 16, 2023 5:20:32 PM org.jenkinsci.remoting.engine.WorkDirManager initializeWorkDir
+INFO: Using /Users/sitaramakanagala/Desktop/trash/ /Users/sitaramakanagala/.jenkins/remoting as a remoting work directory
+Nov 16, 2023 5:20:33 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: WebSocket connection open
+Nov 16, 2023 5:20:33 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Connected
