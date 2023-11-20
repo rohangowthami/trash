@@ -11,7 +11,7 @@ pipeline{
         APP_NAME = "project"
         RELEASE = "1.0.0"
         DOCKER_USER = "rohangowthami"
-        DOCKER_PASS = 'dckr_pat_QmKe4VdJVxue3g739TFfzPqLIRM'
+        DOCKER_PASS = '9652452664'
         IMAGE_NAME = "${DOCKER_USER}" + "/" + "${APP_NAME}"
         IMAGE_TAG = "${RELEASE}-${BUILD_NUMBER}"
        // JENKINS_API_TOKEN = credentials("JENKINS_API_TOKEN")
@@ -51,6 +51,8 @@ pipeline{
                 
             }
         }*/
+
+
 
         stage("Build & Push Docker Image") {
             steps {
